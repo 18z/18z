@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm the cofounder of Quark Engine: An Storyteller of Android Malare.
+I'm the cofounder and team lead of Quark Engine: An Storyteller of Android Malare.
 
 Here are what I do:
 1. Build team for Quark Engine, now we have four excellent members.
