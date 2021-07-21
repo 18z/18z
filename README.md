@@ -19,7 +19,8 @@ I'm the Co-founder/Team lead of [Quark Engine](https://github.com/quark-engine/q
 
 Here are what I do:
 1. Build team for Quark Engine, now we have four excellent members.
-2. Develop all strategies (hiring, branding, techniques) for Quark.
-3. Lead team to collaborate with other famous open source projects (Kali, Jadx, APKLab)
-4. Lead team to present our work in top security conferences (Blackhat, DEF CON).
-5. Make Quark as one of the projects in Google Summer of Code.
+2. Coach Quark Engine Triage Team. 
+3. Develop all strategies (hiring, branding, techniques) for Quark.
+4. Lead team to collaborate with other famous open source projects (Kali, Jadx, APKLab)
+5. Lead team to present our work in top security conferences (Blackhat, DEF CON).
+6. Make Quark as one of the projects in Google Summer of Code.
