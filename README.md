@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm the Co-founder/Team lead of [Quark Engine](https://github.com/quark-engine/quark-engine).
+I'm the Co-founder/Team Coach of [Quark Engine](https://github.com/quark-engine/quark-engine).
 
-Here are what I do:
+Here are what I did previously as team lead:
 1. Build team for Quark Engine, now we have four excellent members.
 2. Coach Quark Engine Triage Team. 
 3. Develop all strategies (hiring, branding, techniques) for Quark.
