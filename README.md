@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 
 I'm the Co-founder/Team Coach of [Quark Engine](https://github.com/quark-engine/quark-engine).
 
-Here are what I did previously as team lead:
+Here are what I do as a Team Coach: 
+1. Provide rigorous analysis of team operations to team leaders.
+2. Provide constructive suggestions to team leaders. 
+3. Help team leaders building a successful leadership. 
+
+Here are what I did previously as a Team Lead:
 1. Build team for Quark Engine, now we have four excellent members.
 2. Coach Quark Engine Triage Team. 
 3. Develop all strategies (hiring, branding, techniques) for Quark.
