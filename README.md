@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm the Founder/Team Lead of [Quark Engine](https://github.com/quark-engine/quark-engine).
 
-Here are what I do previously as a Team Lead:
+Here are what I do as a Team Lead:
 1. Build team for Quark Engine, now we have four excellent members.
 2. Coach Quark Engine Triage and UI/UX Team. 
 3. Develop all strategies (hiring, branding, techniques) for Quark.
