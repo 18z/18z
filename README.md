@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 I'm the Founder/Team Lead of [Quark Engine](https://github.com/quark-engine/quark-engine).
 
 Here are what I do as a Team Lead:
-1. Build team for Quark Engine, now we have four excellent members.
-2. Coach Quark Engine Triage and UI/UX Team. 
+1. Build teams for Quark Engine, now we have a small but concrete community.
+2. Coach Quark Engine Core Library and Quark Script Team. 
 3. Develop all strategies (hiring, branding, techniques) for Quark.
 4. Lead team to collaborate with other famous open source projects (Kali, Jadx, APKLab)
-5. Lead team to present our work in top security conferences (Blackhat, DEF CON).
+5. Lead team to present our work at top security conferences (Blackhat, DEF CON).
 6. Make Quark as one of the projects in Google Summer of Code.
 7. Provide rigorous analysis of team operations to team leaders.
 8. Provide constructive suggestions to team leaders. 
-9. Help team leaders building a successful leadership. 
+9. Help team leaders build successful leadership. 
